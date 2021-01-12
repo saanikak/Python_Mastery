@@ -1,0 +1,6 @@
+Skills to gain before Winter Break ends
+- Python Intermediate + Advanced Programming
+- ML Bootcamp (complete)
+- ML A-Z Regression
+- Data Structures & Algos - LinkedLists, Stacks, Queues, Lists, Dictionaries, Strings. Do LEETCODE! 
+- iOS Development (work on the app)
