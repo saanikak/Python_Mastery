@@ -19,3 +19,6 @@ for line in f2:
     tokens = line.split(' ')
     print(str(len(tokens)) + '  ' + line)
 f2.close()
+
+#you can also open files using the 'with' keyword
+
